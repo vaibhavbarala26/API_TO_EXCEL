@@ -50,28 +50,11 @@ Place your Google Cloud Credentials.json file in the project root directory.
 - [Contributing](#contributing)
 - [License](#license)
 ## Installation
-
-
 1.Clone the repository:
    ```bash
    git clone <repository-url>
    cd <repository-directory>
-```
-2.Install dependencies:
-```bash
-npm install
-```
-3.Run the application:
-```bash
-npm start
-```
-4.Envrironment Variables:
-```plaintext
-PORT=1042
-MONGODB_URI=<your_mongodb_connection_string>
-```
-
-
+``
 
 ## How to Run
 
