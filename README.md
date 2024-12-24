@@ -34,7 +34,7 @@ pip Install -r requirements
 
 ##**3. Create a .env file**
 ```bash
-api_key=YOUR_COINMARKETCAP_API_KEY
+api_key="12044ab5-bd04-4c17-88ec-bdeffe7a61ae"
 parent_folder=YOUR_GOOGLE_DRIVE_FOLDER_ID
 ```
 
