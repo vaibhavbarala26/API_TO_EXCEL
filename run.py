@@ -11,7 +11,7 @@ from googleapiclient.http import MediaFileUpload
 from dotenv import load_dotenv
 load_dotenv(dotenv_path="./env/.env")
 # API Key for CoinMarketCap
-api_key = os.getenv("api_key")
+api_key = os.getenv("api_key") #enter this key here 12044ab5-bd04-4c17-88ec-bdeffe7a61ae
 
 # Function to check if a file is locked (used for checking if Excel files are open)
 def is_file_locked(file_path):
