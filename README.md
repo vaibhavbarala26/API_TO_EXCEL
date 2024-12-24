@@ -42,20 +42,6 @@ parent_folder=YOUR_GOOGLE_DRIVE_FOLDER_ID
 Place your Google Cloud Credentials.json file in the project root directory.
 
 
-## Table of Contents
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [API Endpoints](#api-endpoints)
-- [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
-- [License](#license)
-## Installation
-1.Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-``
-
 ## How to Run
 
 **1.Navigate to the folder**
