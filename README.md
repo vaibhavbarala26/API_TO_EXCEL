@@ -57,8 +57,13 @@ python <script-name>.python
 ## Dependencies
 
 requests==2.31.0
+
 pandas==1.5.3
+
 openpyxl==3.1.2
+
 google-auth==2.23.0
+
 google-api-python-client==2.94.0
+
 python-dotenv==1.0.0
